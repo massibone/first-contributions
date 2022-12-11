@@ -38,7 +38,9 @@
 - [Gaurav](https://github.com/b9aurav)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 - [Parth Shah@DevsocPI]
+- [Massimo Bonechi](https://github.com/massibone)
 - aditya bagla
+
 - Reetish Rath
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pranjay Yelkotwar] @DevSocInductions
